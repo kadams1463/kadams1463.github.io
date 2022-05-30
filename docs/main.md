@@ -1,6 +1,6 @@
 layout: page
 title: "Kevin Adams"
-permalink: /
+permalink: /about/
 
 # Links
 - [LinkedIn](https://www.linkedin.com/in/kevinjacobadams/)

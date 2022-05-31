@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Kevin Adams"
 permalink: /main/
+---
 
 # Links
 - [LinkedIn](https://www.linkedin.com/in/kevinjacobadams/)
